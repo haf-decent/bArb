@@ -46,14 +46,6 @@ Lastly, just wanted to express how awesome getting involved with crypto has been
 
 For those of you that came here looking for help with their own project, I hope this helps with whatever it is that you're trying to do.
 
-Bitcoin address
-
-`13TQ25goTgskCsKWGGTkB15rfG4J37PjMe`
-
-Ether address
-
-`0xa90a92f3f9bcb2764c90b06ebf80a0bd8c924e0d`
-
-Litecoin address
-
-`LYYkueBJDFaVMgBUCrHeHoGwF5SU4BcLco`
+Bitcoin address|Ether address|Litecoin address
+---------------|---------------|---------------
+`13TQ25goTgskCsKWGGTkB15rfG4J37PjMe`|`0xa90a92f3f9bcb2764c90b06ebf80a0bd8c924e0d`|`LYYkueBJDFaVMgBUCrHeHoGwF5SU4BcLco`
