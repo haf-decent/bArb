@@ -3,12 +3,12 @@ Crypto API handling and automated trading bot
 
 ### Important Info
 bArb was created using the official node API wrappers for each of the following exchanges:
-1. Poloniex
-2. Kraken
-3. Coinbase
-4. GDAX
-5. Bittrex
-6. Bitfinex
+1. [Poloniex](https://github.com/dutu/poloniex-api-node)
+2. [Kraken](https://github.com/nothingisdead/npm-kraken-api)
+3. [Coinbase](https://github.com/coinbase/coinbase-node)
+4. [GDAX](https://www.npmjs.com/package/gdax)
+5. [Bittrex](https://github.com/n0mad01/node.bittrex.api)
+6. [Bitfinex](https://github.com/bitfinexcom/bitfinex-api-node)
 
 Coinbase is not technically an exchange, so I would suggest not using that if you're planning on making a trading bot, because they may freeze your account for frequent withdrawals to other exchanges. Bitfinex recently announced they will no longer be supporting US customers, so I have commented out its API handling and functions. If you're outside the US, feel free to add those back in.
 
